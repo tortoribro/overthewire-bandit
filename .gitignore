@@ -1,0 +1,7 @@
+# Credentials
+bandit-passwords.txt
+secrets.md
+.env
+*.key
+id_rsa
+id_rsa.pub
