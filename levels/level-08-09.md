@@ -1,4 +1,4 @@
-# Bandit Level 0
+# Bandit Level 8
 
 ## 1. 목표
 - data.txt에서 다른 줄은 여러 번 등장하고, 딱 한 줄만 한 번 등장한다. 그 유일한 줄을 찾아야 한다
