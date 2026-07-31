@@ -11,6 +11,8 @@ OverTheWire Bandit 실습을 통해 학습한 Linux 명령어와
 - strings를 이용한 바이너리 문자열 추출
 - Base64 인코딩과 디코딩 이해
 - 표준 출력, 오류 출력 및 파이프 이해
+- ROT13형식 파일 복원방법 이해
+- 다양한 파일 형식 이해 및 형식 변경 및 압축해제
 
 ## Progress
 
@@ -27,6 +29,8 @@ OverTheWire Bandit 실습을 통해 학습한 Linux 명령어와
 | 8 → 9 | sort, uniq | [보기](levels/level-08-09.md) |
 | 9 → 10 | strings | [보기](levels/level-09-10.md) |
 | 10 → 11 | Base64 디코딩 | [보기](levels/level-10-11.md) |
+| 11 → 12 | ROT13 복원| [보기](levels/level-11-12.md) |
+| 12 → 13| 파일형식분석| [보기](levels/level-12-13.md) |
 
 ## Security Policy
 
