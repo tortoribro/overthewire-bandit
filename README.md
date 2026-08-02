@@ -14,6 +14,12 @@ OverTheWire Bandit 실습을 통해 학습한 Linux 명령어와
 - ROT13형식 파일 복원방법 이해
 - 다양한 파일 형식 이해 및 형식 변경 및 압축해제
 - SSH 공개키 인증 개념을 이해한다.
+- localhost접속을 이해한다.
+- SSL/TLS접속으로 암호화된 네트워크를 이해한다.
+- 포트스캔을 이해한다.
+- 파일을 비교한다.
+- 로그인셸 접속없이 바로 파일에 접근해본다.
+- SUID가 설정된 파일을 이해한다.
 
 ## Progress
 
@@ -33,6 +39,12 @@ OverTheWire Bandit 실습을 통해 학습한 Linux 명령어와
 | 11 → 12 | ROT13 복원| [보기](levels/level-11-12.md) |
 | 12 → 13| 파일형식분석| [보기](levels/level-12-13.md) |
 | 13 → 14| SSH 공개키인증| [보기](levels/level-13-14.md) |
+|14 → 15|localhost 접속| [보기](levels/level-14-15.md)
+|15 → 16|SSL/TLS연결 | [보기](levels/level-15-16.md)
+|16 → 17|포트스캔 |[보기](levels/level-16-17.md)
+|17 → 18|파일 비교 |[보기](levels/level-17-18.md)
+|18 → 19|로그인셸없이 바로 접속|[보기](levels/level-18-19.md)
+|19 → 20|SUID |[보기](levels/level-19-20.md)
 
 ## Security Policy
 
