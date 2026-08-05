@@ -12,14 +12,13 @@
 - bandit22만 읽을 수 있는 파일을 임시파일에 저장시킨다.
 - 임시파일 권한이 644 이기때문에 bandit21도 파일을 읽을 수가있다.
 
-- cron 스크립트
+cron 스크립트
 ```bash
 #!/bin/bash
 
 chmod 644 /tmp/어떤파일명
 cat /etc/bandit_pass/bandit22 > /tmp/어떤파일명
 
-```
 ```
 
 ## 3. 사용 명령어
