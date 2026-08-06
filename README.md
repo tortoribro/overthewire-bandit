@@ -20,6 +20,9 @@ OverTheWire Bandit 실습을 통해 학습한 Linux 명령어와
 - 파일을 비교한다.
 - 로그인셸 접속없이 바로 파일에 접근해본다.
 - SUID가 설정된 파일을 이해한다.
+- cron 개념을 이해한다.
+- cron 파일의 동작원리를 이해한다.
+- 무차별 대입 코드를 작성하고 이해한다.
 
 ## Progress
 
@@ -45,6 +48,11 @@ OverTheWire Bandit 실습을 통해 학습한 Linux 명령어와
 |17 → 18|파일 비교 |[보기](levels/level-17-18.md)
 |18 → 19|로그인셸없이 바로 접속|[보기](levels/level-18-19.md)
 |19 → 20|SUID |[보기](levels/level-19-20.md)
+|20 → 21|SUID|[보기](levels/level-20-21.md)|
+|21 → 22|cron개념|[보기](levels/level-21-22.md)|
+|22 → 23|corn,md5해시값|[보기](levels/level-22-23.md)|
+|23 → 24|cron파일 동작 |[보기](levels/level-23-24.md)|
+|24 → 25|무차별 대입 |[보기](levels/level-24-25.md)|
 
 ## Security Policy
 
